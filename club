@@ -1,0 +1,15 @@
+#NAME liste (IPTV)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::liste (IPTV)
+#DESCRIPTION: --- liste (IPTV) ---
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//livego.club%3a8080/rado12345/rado12345/38446
+#DESCRIPTION: Events: Corona Virus - Covid 19
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//livego.club%3a8080/rado12345/rado12345/5215
+#DESCRIPTION: AZ: AMC
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//livego.club%3a8080/rado12345/rado12345/5217
+#DESCRIPTION: AZ: CBC AZERBAJAN
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//livego.club%3a8080/rado12345/rado12345/5216
+#DESCRIPTION: AZ: CBC SPORT HD
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//livego.club%3a8080/rado12345/rado12345/5220
+#DESCRIPTION: AZ: LIDER TV
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//livego.club%3a8080/rado12345/rado12345/5219
+#DESCRIPTION: AZ: ICTIMAI TV
